@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm I have a Bachelor/’s Degree in Communications, six years service in the United States Air Force, as well as experience with Small Business Ownership. What I bring is a strong work ethic, a team oriented approach and the ability to rapidly adapt to new work techniques and technologies. What I/’m searching for is a team that I can add value to by combining my growing skills in software development, my desire to make a positive impact, and the knowledge and experience that I have gained throughout my life. If this sounds like what your company is looking for, reach out to me on LinkedIn",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Take Ten",
+        "startDate": "2022",
+        "description": "This project solves problems for people in a more stationary lifestyle to find the time to stay active. It removes the pain-point of deciding what workout to do, while still tailoring the experience to the needs of the user.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/take-ten/TakeTenLandingPage.png",
+          "images/portfolio/take-ten/TakeTenWorkoutGenerator.png"
         ],
-        "url": "",
+        "url": "https://201-djkm.github.io/201-task-tracker/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,11 +35,11 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Salmon Cookies",
+        "startDate": "2022",
+        "description": "Pat Salmon/'s Salmon Cookies is a fictional website for a cookie maker that specializes in cookies made of salmon. This site gives a history of the product as well as a location for storing of distribution numbers from their global distrobution centers.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/salmon-cookies/SalmonCookiesHomePage.png",
           "images/portfolio/photography/p2.jpg"
         ],
         "url": "https://github.com",
@@ -55,11 +55,11 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "About Me",
+        "startDate": "2022",
+        "description": "One of the first sites I built was a simple introduction website. It displayed images and information about me. This was built with HTML and CSS. It also had a minigame using prompts to ask the user questions about me.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/aboutMe/aboutmepage.png",
           "images/portfolio/adventure/p2.jpg"
         ],
         "url": "https://github.com",
@@ -81,9 +81,9 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Galloway Apartments",
+        "title": "Leasing Specialst",
+        "years": "12.2017 - 08.2018",
         "mainTech": [
           "Angular 8/9/10"
         ],
@@ -100,9 +100,24 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "FTJ Vapes",
+        "title": "Owner/Operator",
+        "years": "09.2015 - 05.2017",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      },
+      {
+        "company": "US Air Force",
+        "title": "Airborne Intelligence, Surveillance, and Reconnaissance (ISR) Operator",
+        "years": "07.2009-07.2015",
         "mainTech": [
           "Angular 7/8"
         ],
@@ -114,5 +129,6 @@
           "DHTMLX Gantt"
         ]
       }
+
     ]
   }
