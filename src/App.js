@@ -80,7 +80,8 @@ class App extends Component {
   render() {
     return (
       <Router>
-        <Header sharedData={this.state.sharedData.basic_info} />
+        <Header  
+        sharedData={this.state.sharedData.basic_info} />
         <Routes>
           <Route 
             exact path="/" 
@@ -96,12 +97,12 @@ class App extends Component {
               sharedBasicInfo={this.state.sharedData.basic_info}
             />}>
           </Route>
-        </Routes>
-        <Footer 
-          sharedBasicInfo={this.state.sharedData.basic_info}
-          applyPickedLanguage={this.applyPickedLanguage} 
-        />  
-      </Router>
+        </Routes >
+      <Footer
+        sharedBasicInfo={this.state.sharedData.basic_info}
+        applyPickedLanguage={this.applyPickedLanguage}
+      />  
+      </Router >
     );
   }
 }
