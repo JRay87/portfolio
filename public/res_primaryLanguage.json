@@ -1,7 +1,8 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm I have a Bachelor/’s Degree in Communications, six years service in the United States Air Force, as well as experience with Small Business Ownership. What I bring is a strong work ethic, a team oriented approach and the ability to rapidly adapt to new work techniques and technologies. What I/’m searching for is a team that I can add value to by combining my growing skills in software development, my desire to make a positive impact, and the knowledge and experience that I have gained throughout my life. If this sounds like what your company is looking for, reach out to me on LinkedIn",
+      "description_header": "Full-Stack Web Developer | College Grad | USAF Veteran | Looking to make an impact",
+      "description": "👋 I'm I have a Bachelor/’s Degree in Communications, six years service in the United States Air Force, as well as experience with Small Business Ownership. What I bring is a strong work ethic, a team oriented approach and the ability to rapidly adapt to new work techniques and technologies. What I/’m searching for is a team that I can add value to by combining my growing skills in software development, my desire to make a positive impact, and the knowledge and experience that I have gained throughout my life. If this aligns with what your company is looking for, reach out to me onLinkedIn",
+      "url": "https://www.linkedin.com/in/john-rayome/",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -81,22 +82,29 @@
     ],
     "experience": [
       {
-        "company": "Galloway Apartments",
-        "title": "Leasing Specialst",
-        "years": "12.2017 - 08.2018",
+        "company": "California State University at Sacramento",
+        "title": "Bachelor's in Communications",
+        "years": "08.2018 - 05.2021",
         "mainTech": [
-          "Angular 8/9/10"
+        "Bachelor's Degree"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+
+        ]
+      },
+      {
+        "company": "Galloway Apartments",
+        "title": "Leasing Specialist",
+        "years": "12.2017 - 08.2018",
+        "mainTech": [
+        
+        ],
+        "technologies": [
+          "Leasing",
+          "Customer Service",
+          "Good Communicator",
+          "Toured prospective tenants; showcasing property and its amenities.",
+          "Maintained Market rent tracker, comparing rent to competitors in the area."
         ]
       },
       {
@@ -104,14 +112,16 @@
         "title": "Owner/Operator",
         "years": "09.2015 - 05.2017",
         "mainTech": [
-          "Angular 7/8"
+          "Small Business Ownership"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "business development",
+          "brand positioning",
+          "customer relations",
+          "revenue growth",
+          "financial management",
+          "drove operational excellence",
+          "price negotiations"
         ]
       },
       {
@@ -119,13 +129,13 @@
         "title": "Airborne Intelligence, Surveillance, and Reconnaissance (ISR) Operator",
         "years": "07.2009-07.2015",
         "mainTech": [
-          "Angular 7/8"
+          "Military Veteran"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
+          "rapid adaptation to new technologies",
+          "Managed flight hour tracker for squadron",
+          "Deployed Logistics Manager",
+          "Training Office",
           "DHTMLX Gantt"
         ]
       }
